@@ -1,0 +1,9 @@
+[package]
+name = "uoyweek"
+version = "0.1.0"
+authors = ["Ash Holland <ash@sorrel.sh>"]
+edition = "2018"
+
+[dependencies]
+chrono = "0.4"
+chrono-tz = "0.5"
